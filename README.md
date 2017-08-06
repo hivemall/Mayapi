@@ -1,0 +1,187 @@
+## Mayapi
+
+Busy bee collects new `#cryptocurrency` pairs from market places and tweets about what she got in her honeypot.
+
+### Supported exchanges
+
+Listed endpoints are supported, if you would like to see others to be added tweet her `@Mayapi_bot`.
+
+- [x] coinmarketcap ticker https://coinmarketcap.com/api/
+- [x] coinbase currencies https://developers.coinbase.com/api/v2
+- [x] poloniex returnTicker https://poloniex.com/support/api/
+- [x] poloniex returnCurrencies
+- [x] bitfinex symbols_details https://docs.bitfinex.com/v1/docs/rest-general
+- [x] bitmex stats https://www.bitmex.com/api/explorer/#/
+- [x] bithumb ticker https://www.bithumb.com/u1/US127
+- [x] bithumb orderbook
+- [x] kraken assets https://www.kraken.com/help/api#public-market-data
+- [x] kraken AssetPairs
+- [ ] okcoin-cn https://www.okcoin.com/rest_api.html (api unsuitable)
+- [x] yunbi markets https://yunbi.com/documents/api/guide
+- [x] bittrex getmarkets https://www.bittrex.com/Home/Api
+- [x] bittrex getcurrencies
+- [x] gemini https://docs.gemini.com/rest-api
+- [ ] chbtc https://www.chbtc.com/i/developer/restApi (api unsuitable)
+- [ ] gdax products https://docs.gdax.com/?javascript#api ({"message":"User-Agent header is required."})
+- [ ] gdax currencies
+- [x] huobi becurrencys https://github.com/huobiapi/API_Docs/wiki
+- [x] huobi apicurrencys
+- [x] huobi besymbols
+- [x] huobi apisymbols
+- [ ] coincheck https://coincheck.com/documents/exchange/api (api unsuitable)
+- [x] coinone http://doc.coinone.co.kr/
+- [x] hitbtc https://hitbtc.com/api
+- [ ] btcc https://www.btcc.com/apidocs/usd-spot-exchange-market-data-rest-api (api unsuitable)
+- [ ] bitstamp https://www.bitstamp.net/api/ (api unsuitable)
+- [x] bitflyer https://bitflyer.jp/API
+- [ ] korbit https://apidocs.korbit.co.kr/#public (api unsuitable)
+- [x] quoine https://developers.quoine.com
+- [x] jubi https://www.jubi.com/help/api.html
+- [x] bter https://bter.com/api2
+- [x] szzc https://szzc.com/api/public/
+- [x] gatecoin https://gatecoin.com/api
+- [x] btc38 http://www.btc38.com/api_detailed.html
+- [ ] zaif
+- [ ] itbit
+- [x] yobit https://yobit.net/en/api/
+- [ ] livecoin
+- [ ] binance https://www.binance.com/restapipub.html (api unsuitable)
+- [ ] viabtc
+- [ ] beibt
+- [x] liqui https://liqui.io/api
+- [ ] coinsbank
+- [ ] btcbox
+- [ ] okcoin-intl
+- [ ] cex-io
+- [ ] btctrade
+- [ ] bcc-exchange
+- [ ] bitbay
+- [ ] yuanbao
+- [ ] 19800
+- [ ] coinfloor
+- [ ] gatehub
+- [ ] exmo
+- [ ] etherdelta
+- [ ] usd-x
+- [ ] btc-markets
+- [ ] bitcoin-indonesia
+- [ ] biduobao
+- [ ] quadrigacx
+- [x] cryptopia GetTradePairs https://www.cryptopia.co.nz/Forum/Thread/255
+- [x] cryptopia GetCurrencies
+- [ ] bitbays
+- [ ] luno
+- [x] bx-thailand https://bx.in.th/info/api/
+- [ ] btc9
+- [ ] bitso
+- [ ] c-cex
+- [ ] bitmarket
+- [ ] fargobase
+- [ ] novaexchange
+- [ ] coinrate
+- [ ] paribu
+- [ ] yobtc
+- [ ] dabtc
+- [ ] bitonic
+- [ ] mercado-bitcoin
+- [ ] bitshares-asset-exchange
+- [ ] bitcointoyou
+- [ ] btc-alpha
+- [ ] lykke-exchange
+- [ ] localtrade
+- [ ] therocktrading
+- [ ] btc100
+- [ ] koinim
+- [ ] allcoin
+- [ ] waves-dex
+- [ ] bitstamp-ripple-gateway
+- [ ] exrates
+- [ ] litebit
+- [ ] btcturk
+- [ ] dcexchange
+- [ ] mr_ripple
+- [ ] xbtce
+- [ ] coinsquare
+- [ ] bitcoin-growth-fund-exchange
+- [ ] ripplefox
+- [ ] coinmate
+- [ ] bnt-smart-token-contract
+- [ ] btc-x
+- [ ] mercatox
+- [ ] altcoin-trader
+- [ ] bitbank
+- [ ] bittylicious
+- [ ] abwang
+- [ ] nevbit
+- [ ] openledger
+- [ ] ripple-china
+- [ ] coinexchange
+- [ ] surbtc
+- [ ] coss
+- [ ] ethexindia
+- [ ] nxt-asset-exchange
+- [ ] btc-trade-ua
+- [ ] tokyo-jpy
+- [ ] btcxindia
+- [ ] heat-wallet
+- [ ] iota-exchange
+- [ ] tux-exchange
+- [ ] bleutrade
+- [ ] easycoin
+- [ ] alcurex
+- [ ] cryptox
+- [ ] bitex-la
+- [ ] freiexchange
+- [ ] negocie-coins
+- [ ] kuna
+- [ ] bitgrail
+- [ ] bitsane
+- [ ] bitmaszyna
+- [ ] cryptomate
+- [ ] stellar-decentralized-exchange
+- [ ] nocks
+- [ ] counterparty-dex
+- [ ] bitlish
+- [ ] dgtmarket
+- [ ] bfexchange
+- [ ] c2cx
+- [ ] tidex
+- [ ] bisq
+- [ ] crypto-dao
+- [ ] stocks-exchange
+- [ ] trade-satoshi
+- [ ] southxchange
+- [ ] cryptoderivatives
+- [ ] touzibi
+- [ ] coingather
+- [ ] bitkonan
+- [ ] rippex
+- [ ] ore-bz
+- [ ] flowbtc
+- [ ] virtacoinworld
+- [ ] coingi
+- [ ] burst-asset-exchange
+- [ ] leoxchange
+- [ ] dc-ex
+- [ ] isx
+- [ ] decentrex
+- [ ] excambriorex
+- [ ] guldentrader
+- [ ] nix-e
+- [ ] independent-reserve
+- [ ] coincorner
+- [ ] swis-exchange
+- [ ] omni-dex
+- [ ] empoex
+- [ ] 247exchange
+- [ ] bitok
+- [ ] e-dinar
+- [ ] virtualworldland
+- [ ] p2pb2b
+
+### CHANGELOG
+
+#### v1.0 (2018-08-06)
+- [x] Mayapi twitters on handle `@Mayapi_bot`
+- [x] various endpoint support new/removed market pairs and currencies
+- [x] Instant Mail notifications (private feature)
